@@ -7,6 +7,6 @@
 * When grouping selectors, keep individual selectors to a single line.
 * Place closing braces of declaration blocks on a new line.
 * Each declaration should appear on its own line for more accurate error reporting.
-### Formatting
+### Formatting###
 * Use hex color codes `#000` unless using rgba().
 * Use `//` for comment blocks (instead of `/* */`).
